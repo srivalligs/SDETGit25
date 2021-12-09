@@ -7,6 +7,7 @@ public class Test1 {
 	public void test1() {
 		System.out.println("Success");
 		System.out.println("Success");
+		System.out.println("Success verified");
 	}
 
 }
